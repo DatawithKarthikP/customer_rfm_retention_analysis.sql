@@ -2,7 +2,7 @@
 -- 📊 Customer RFM & Retention Analysis in SQL Server
 -- ===============================================
 
--- Assumes: Orders and Customers tables as defined above
+
 -- Goal: Analyze customer value & retention using SQL Server
 
 -- STEP 1: Set analysis reference date
